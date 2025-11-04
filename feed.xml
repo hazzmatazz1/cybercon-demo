@@ -3,14 +3,14 @@
     <title>Digital Garden</title>
     <link href="https://cybercon.harrymiller.uk/feed.xml" rel="self" />
     <link href="https://cybercon.harrymiller.uk" />
-    <updated>2025-11-04T16:16:50Z</updated>
+    <updated>2025-11-04T16:16:56Z</updated>
     <id>https://cybercon.harrymiller.uk</id>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-11-04T16:16:32Z</updated>
+            <updated>2025-11-04T16:16:33Z</updated>
             <id>https://cybercon.harrymiller.uk/</id>
             <content type="html">
                 &lt;p&gt;Welcome to Harrison&#39;s amazing homepage. Click &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://cybercon.harrymiller.uk/about/&quot;&gt;here&lt;/a&gt; to see more about me&lt;/p&gt;
@@ -23,7 +23,7 @@
                 About
                 
             </title>
-            <updated>2025-11-04T16:16:32Z</updated>
+            <updated>2025-11-04T16:16:33Z</updated>
             <id>https://cybercon.harrymiller.uk/about/</id>
             <content type="html">
                 &lt;p&gt;Hi, I&#39;m Harrison Miller. I created this super basic site for CyberCon to demonstrate how easy it is to onboard to the WAF.&lt;/p&gt;

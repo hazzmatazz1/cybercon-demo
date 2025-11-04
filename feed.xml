@@ -3,18 +3,26 @@
     <title>CyberCon</title>
     <link href="https://cybercon.harrymiller.uk/feed.xml" rel="self" />
     <link href="https://cybercon.harrymiller.uk" />
-    <updated>2025-11-04T16:33:02Z</updated>
+    <updated>2025-11-04T16:57:07Z</updated>
     <id>https://cybercon.harrymiller.uk</id>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-11-04T16:32:41Z</updated>
+            <updated>2025-11-04T16:56:53Z</updated>
             <id>https://cybercon.harrymiller.uk/</id>
             <content type="html">
                 &lt;h1 id=&quot;home&quot; tabindex=&quot;-1&quot;&gt;Home&lt;/h1&gt;
-&lt;p&gt;Welcome to Harrison&#39;s amazing homepage. Click &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://cybercon.harrymiller.uk/about/&quot;&gt;here&lt;/a&gt; to see more about me&lt;/p&gt;
+&lt;p&gt;Welcome to Harrison&#39;s amazing homepage. Click &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://cybercon.harrymiller.uk/about/&quot;&gt;here&lt;/a&gt; to see more about me.&lt;/p&gt;
+&lt;h2 id=&quot;waf-onboarding-demo&quot; tabindex=&quot;-1&quot;&gt;WAF Onboarding Demo&lt;/h2&gt;
+&lt;p&gt;We will be onboarding this site onto the Imperva Cloud WAF during this session. This will involve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating a configuration on Imperva&lt;/li&gt;
+&lt;li&gt;Making a DNS change to validate ownership of the FQDN&lt;/li&gt;
+&lt;li&gt;Waiting for the certificate to be issued by Imperva (~5 mins)&lt;/li&gt;
+&lt;li&gt;Changing the DNS for the FQDN to point to the Imperva CNAME record&lt;/li&gt;
+&lt;/ul&gt;
 
             </content>
             <link href="https://cybercon.harrymiller.uk/" />
@@ -24,7 +32,7 @@
                 About
                 
             </title>
-            <updated>2025-11-04T16:32:41Z</updated>
+            <updated>2025-11-04T16:56:53Z</updated>
             <id>https://cybercon.harrymiller.uk/about/</id>
             <content type="html">
                 &lt;p&gt;Hi, I&#39;m Harrison Miller. I created this super basic site for CyberCon to demonstrate how easy it is to onboard to the WAF.&lt;/p&gt;

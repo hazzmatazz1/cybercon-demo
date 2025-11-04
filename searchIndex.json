@@ -1,7 +1,7 @@
 [
 {
 		"title": "About",
-		"date":"Tue Nov 04 2025 16:32:41 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Nov 04 2025 16:56:53 GMT+0000 (Coordinated Universal Time)",
 		"url":"/about/",
 		"content": "Hi, I'm Harrison Miller. I created this super basic site for CyberCon to demonstrate how easy it is to onboard to the WAF.",
 		"tags": [ "note"]
@@ -9,9 +9,9 @@
 
 {
 		"title": "Home",
-		"date":"Tue Nov 04 2025 16:32:41 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Nov 04 2025 16:56:53 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "Home\nWelcome to Harrison's amazing homepage. Click <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/about/\">here</a> to see more about me",
+		"content": "Home\nWelcome to Harrison's amazing homepage. Click <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/about/\">here</a> to see more about me.\nWAF Onboarding Demo\nWe will be onboarding this site onto the Imperva Cloud WAF during this session. This will involve:\n\nCreating a configuration on Imperva\nMaking a DNS change to validate ownership of the FQDN\nWaiting for the certificate to be issued by Imperva (~5 mins)\nChanging the DNS for the FQDN to point to the Imperva CNAME record",
 		"tags": [ "note","gardenEntry"]
 }
 ]
